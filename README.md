@@ -17,8 +17,8 @@ The dataset includes:
 
 > There are 183412 rows and 16 columns.
 
-> There was some cleaning done to the dataset. This included: 
-* Deleting the rows without gender or birth year, and dropping some unneeded columns containing null values.
+> There was some cleaning done to the dataset. That included: 
+* Deleting rows without gender or birth year info, and dropping some unneeded columns containing null values.
 * Only use ages that are reasonable. Check for abnormally old or young values and remove them,and ages older than 100 were removed from the data
 * Change data types; times to datetimes.
 * Extract days of the week from start_time
