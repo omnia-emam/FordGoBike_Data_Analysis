@@ -39,4 +39,4 @@ The dataset includes:
 > For my presentation, I will focus on the difference in usage for customers and subscribers, and how long does the average trip take(which are my main features of interest). I will first show the univariate results, such as the distribution of different variables like (gender,user type,duaration,age) and usage on days of the week. then we will continue by adding more variables in bivariate and multivariate visuals to see the relationship between different variables. 
 > My conclusion is that: 
 * with the increasement of trip durations, number of riders tends to decrease.
-* whether a user is a customer or a subscriber does have the biggest influence on results. Also age is an important factor, compared to gender which bairly affects any other variables in the data. 
+* whether a user is a customer or a subscriber does have the biggest impact on results. Also age is an important factor, compared to gender which barely affects any other variables in the data. 
